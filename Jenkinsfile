@@ -8,7 +8,7 @@ pipeline {
         }
         stage("jenkins") {
         steps {
-            echo "welcome to jenkinpipelines"
+            echo "welcome to jenkinpipeline"
         }
     }
 } 
